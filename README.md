@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since <b>2022</b><br>📚 I'm currently learning <b>Linux</b>🐧<br>🎲 Fun fact:<b> Student @ Vives University of Applied Sciences (Brugge)</b></p>
+<p align="left">✨ Creating bugs since <b>2022</b><br>📚 I'm currently learning <b>n8n</b><br><br>📚 I'm currently working on <b><a href="https://github.com/vives-project-xp/EducatiefEPD"></b><br>🎲 Fun fact:<b> Student @ Vives University of Applied Sciences (Brugge)</b></p>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/ewoud-bouttelisier-a3360434b/" target="_blank">
